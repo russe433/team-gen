@@ -1,0 +1,26 @@
+{
+  "name": "team-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russe433/team-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russe433/team-gen/issues"
+  },
+  "homepage": "https://github.com/russe433/team-gen#readme",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "inquirer": "^8.2.4"
+  }
+}
