@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/russe433/team-gen#readme",
   "devDependencies": {
-    "jest": "^28.1.1",
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.1"
   }
 }
